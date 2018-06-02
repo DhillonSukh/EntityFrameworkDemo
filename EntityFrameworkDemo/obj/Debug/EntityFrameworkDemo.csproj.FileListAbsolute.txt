@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+c:\users\hp\documents\visual studio 2015\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
